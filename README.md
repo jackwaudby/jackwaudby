@@ -1,16 +1,15 @@
-### Hi there 👋
+### Jack Waudby
 
-<!--
-**jackwaudby/jackwaudby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at [Newcastle University](https://www.ncl.ac.uk) where I'm part of the [Scalable Computing Group](https://www.ncl.ac.uk/computing/research/groups/scalable/#about) and the [Cloud Computing for Big Data Centre for Doctoral Training](https://www.ncl.ac.uk/bigdata/). 
+My research interests are:
++ Transaction management 
++ Data replication
++ Graph processing 
 
-Here are some ideas to get you started:
+I'm also a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
