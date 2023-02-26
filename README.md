@@ -8,11 +8,3 @@ My research interests are:
 + Data replication
 + Graph processing
 + Benchmarking
-
-Previously, I was a member of the [Linked Data Benchmark Council (LDBC)](http://ldbcouncil.org/) Social Network Benchmark Task Force.
-
-
-
-
-
-
