@@ -8,3 +8,5 @@ My research interests are:
 + Data replication
 + Graph processing
 + Benchmarking
+
+I also host [Disseminate: The Computer Science Research Podcast](https://disseminatepodcast.podcastpage.io/) which features interviews with Computer Science researchers about their latest work in attempt to help further narrow the gap between research and practice, and to generally make awesome Computer Science research more accessible.
